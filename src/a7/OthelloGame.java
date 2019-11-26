@@ -9,7 +9,6 @@ public class OthelloGame {
 	public static void main(String[] args) {
 
 		/* Create top level window. */
-		// copy and paste just cange name and widget name
 
 		JFrame main_frame = new JFrame();
 		main_frame.setTitle("Othello");

@@ -88,7 +88,9 @@ public class ConnectFourWidget extends JPanel implements ActionListener, SpotLis
 			s.setSpotColor(Color.BLUE);
 			s.clearSpot();
 		}
+
 		/* Reset game won and next to play fields */
+
 		_game_won = false;
 		_next_to_play = Player.RED;
 
@@ -166,6 +168,7 @@ public class ConnectFourWidget extends JPanel implements ActionListener, SpotLis
 
 		/*
 		 * Check if four in a row. If so, mark game as won.
+		 * Check for draw
 		 */
 
 		for (Spot spot : _board) {

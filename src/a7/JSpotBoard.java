@@ -16,7 +16,7 @@ import javax.swing.JPanel;
  * Spot width and spot height are specified to the constructor. 
  * 
  * By default, the spots on the spot board are set up with a checker board pattern
- * for background colors and yellow highlighting.
+ * for background colors and yellow highlighting. (I changed this to uniform)
  * 
  * Uses SpotBoardIterator to implement Iterable<Spot>
  * 

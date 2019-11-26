@@ -291,6 +291,7 @@ public class OthelloWidget extends JPanel implements ActionListener, SpotListene
 		return true;
 	}
 
+	//Returns list of flipable spots for spot argument
 	public List<Spot> flipableSpots(Spot s, Color player_color) {
 
 		List<Spot> flipable = new ArrayList<Spot>();

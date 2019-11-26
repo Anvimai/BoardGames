@@ -200,6 +200,7 @@ public class TicTacToeWidget extends JPanel implements ActionListener, SpotListe
 		s.unhighlightSpot();
 	}
 
+	//check if three in a row
 	public boolean gameLogic(Color player_color) {
 
 		boolean game = false;

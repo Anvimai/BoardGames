@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 public class SpotBoardIterator implements Iterator<Spot> {
+	
 
 	private SpotBoard _board;
 	int _x;

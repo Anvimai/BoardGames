@@ -31,7 +31,6 @@ import javax.swing.BorderFactory;
  *
  *MouseListener:
  *
- *Wont have to use this for assignment
  */
 
 public class JSpot extends JPanel implements MouseListener, Spot {
