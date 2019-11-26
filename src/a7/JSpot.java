@@ -26,6 +26,12 @@ import javax.swing.BorderFactory;
  * notifications to registered SpotListener objects when the spot is entered,
  * exited, or clicked using the appropriate methods (see SpotListener).
  *
+ *
+ *JPanel: has it's own background getter setter color
+ *
+ *MouseListener:
+ *
+ *Wont have to use this for assignment
  */
 
 public class JSpot extends JPanel implements MouseListener, Spot {
@@ -84,6 +90,7 @@ public class JSpot extends JPanel implements MouseListener, Spot {
 		return _is_empty;
 	}
 
+	//tell it when it needs to be repainted
 	@Override
 	public void setSpot() {
 		_is_empty = false;
@@ -158,6 +165,7 @@ public class JSpot extends JPanel implements MouseListener, Spot {
 
 	// Overriding paintComponent from JPanel to paint ourselves
 	// the way we want.
+	//don't have to understand this for assignment
 
 	@Override
 	public void paintComponent(Graphics g) {

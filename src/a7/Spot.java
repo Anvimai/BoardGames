@@ -29,7 +29,7 @@ import java.awt.Color;
  * Spot listeners are informed about "enter", "exit", and "click" events.
  * It is up to an implementation to determine how / when those are events occur.
  * 
- * Register and deregister methods are addSpotListener() and removeSpotListener()
+ * Register and de-register methods are addSpotListener() and removeSpotListener()
  * 
  * getCoordString() constructs coordinate string as "(x,y)"
  * 
