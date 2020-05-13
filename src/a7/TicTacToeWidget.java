@@ -1,5 +1,7 @@
 package a7;
 
+//Student contribution to assignment: Create Tic Tac Toe game. 
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
