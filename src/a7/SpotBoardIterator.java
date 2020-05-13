@@ -1,5 +1,6 @@
 package a7;
 
+//instructor provided code
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
