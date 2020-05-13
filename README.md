@@ -1,4 +1,5 @@
 # Assignment 7 Fall 2019 Intro to Programming
+# Student Contributions in Widget classes
 
 TicTacToe:
 
