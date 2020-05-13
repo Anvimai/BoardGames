@@ -1,5 +1,7 @@
 package a7;
 
+//instructor provided code 
+
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
