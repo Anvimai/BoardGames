@@ -1,5 +1,9 @@
 package a7;
 
+/*
+*A7 Student code for Connect Four Game
+*/
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
