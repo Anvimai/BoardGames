@@ -1,7 +1,8 @@
 package a7;
 
 
-/*
+/*Instructor provided code 
+ *
  * SpotListener
  * 
  * Listener interface supported by Spot to report click, enter, and exit events.
