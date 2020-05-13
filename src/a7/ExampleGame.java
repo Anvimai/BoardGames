@@ -1,5 +1,6 @@
 package a7;
 
+//instructor provided example
 
 import java.awt.BorderLayout;
 
